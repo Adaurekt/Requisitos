@@ -15,5 +15,4 @@ Sprints are being managed on Jira
     - Individual Review
 5 - Lists Page
     - Create/Edit List
-6 - Journal Pageniggerman balls hd
-niggerman balls hdniggerman balls hdniggerman balls hdniggerman balls hdniggerman balls hdniggerman balls hdniggerman balls hd
+6 - Journal Page
